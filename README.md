@@ -1,1 +1,1 @@
-# Stimulus-Response Patterns: The core of robust cross-stimulus facial depression recognition
+# Stimulus-Response Pattern: The core of robust cross-stimulus facial depression recognition
